@@ -1,0 +1,58 @@
+﻿GTAP,GTAP_Name,SAM53,SAM53_Name
+1,Paddy rice,1,Grains and beans
+2,Wheat,1,Grains and beans
+3,Cereal grains nec,1,Grains and beans
+4,"Vegetables, fruit, nuts",2,"Vegetables, fruit, nuts"
+5,Oil seeds,3,Oil seeds
+6,"Sugar cane, sugar beet",4,"Sugar cane, sugar beet"
+7,Plant-based fibers,5,Plant-based fibers
+8,Crops nec,6,Crops nec
+9,"Cattle,sheep,goats,horses",7,"Cattle,sheep,goats,horses"
+10,Animal products nec,8,Animal products nec
+11,Raw milk,9,Other animal production
+12,"Wool, silk-worm cocoons",9,Other animal production
+13,Forestry,10,Forestry
+14,Fishing,11,Fishing
+15,Coal,12,Coal
+16,Oil,13,oil and gas
+17,Gas,13,oil and gas
+18,Minerals nec,14,Minerals nec
+19,"Meat: cattle,sheep,goats,horse",15,"Meat: cattle,sheep,goats,horse"
+20,Meat products nec,16,Meat products nec
+21,Vegetable oils and fats,17,Vegetable oils and fats
+22,Dairy products,18,Dairy products
+23,Processed rice,19,Processed rice
+24,Sugar,20,Sugar
+25,Food products nec,21,Food products nec
+26,Beverages and tobacco products,22,Beverages and tobacco products
+27,Textiles,23,Textiles
+28,Wearing apparel,24,Wearing apparel
+29,Leather products,25,Leather products
+30,Wood products,26,Wood products
+31,"Paper products, publishing",27,"Paper products, publishing"
+32,"Petroleum, coal products",28,"Petroleum, coal products"
+33,"Chemical,rubber,plastic prods",29,"Chemical,rubber,plastic prods"
+34,Mineral products nec,30,Mineral products nec
+35,Ferrous metals,31,Ferrous metals
+36,Metals nec,32,Metals nec
+37,Metal products,33,Metal products
+38,Motor vehicles and parts,34,Motor vehicles and parts
+39,Transport equipment nec,35,Transport equipment nec
+40,Electronic equipment,36,Electronic equipment
+41,Machinery and equipment nec,37,Machinery and equipment nec
+42,Manufactures nec,38,Manufactures nec
+43,Electricity,39,Electricity
+44,"Gas manufacture, distribution",40,"Gas manufacture, distribution"
+45,Water,41,Water
+46,Construction,42,Construction
+47,Trade,43,Trade
+48,Transport nec,44,Transport nec
+49,Sea transport,45,Sea transport
+50,Air transport,46,Air transport
+51,Communication,47,Communication
+52,Financial services nec,48,Financial services nec
+53,Insurance,49,Insurance
+54,Business services nec,50,Business services nec
+55,Recreation and other services,51,Recreation and other services
+56,PubAdmin/Defence/Health/Educat,52,PubAdmin/Defence/Health/Educat
+57,Dwellings,53,Dwellings
